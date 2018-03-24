@@ -1,0 +1,10 @@
+lottery=[4,54,2545,34,67,292,8,38,57]
+print(lottery)
+lottery.sort()
+print(lottery)
+len(lottery)
+lottery.pop(8)
+print(lottery)
+lottery.reverse()
+print(lottery)
+print('Hello, Django Girls')
